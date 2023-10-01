@@ -1,0 +1,10 @@
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\bin\Debug\XML\drugi.xml
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\bin\Debug\XML\prvi.xml
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\bin\Debug\LINQ-XML_usporedba.exe.config
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\bin\Debug\LINQ-XML_usporedba.exe
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\bin\Debug\LINQ-XML_usporedba.pdb
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\obj\Debug\LINQ-XML_usporedba.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\obj\Debug\LINQ-XML_usporedba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\obj\Debug\LINQ-XML_usporedba.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\obj\Debug\LINQ-XML_usporedba.exe
+C:\Users\Piero\Documents\School\4.d\NiOP\LINQ-XML_usporedba\LINQ-XML_usporedba\obj\Debug\LINQ-XML_usporedba.pdb
